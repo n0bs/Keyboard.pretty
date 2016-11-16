@@ -1,4 +1,4 @@
-(module Keyboard:MX_PLATE_275H (layer F.Cu) (tedit 549A138A)
+(module MX_PLATE_275H (layer F.Cu) (tedit 582C9C86)
   (fp_text reference CHERRY? (at 0 3.175) (layer F.SilkS)
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )
@@ -27,6 +27,4 @@
   (pad 1 thru_hole circle (at 2.54 -5.08) (size 2.286 2.286) (drill 1.4986) (layers *.Cu *.SilkS *.Mask))
   (pad 2 thru_hole circle (at -3.81 -2.54) (size 2.286 2.286) (drill 1.4986) (layers *.Cu *.SilkS *.Mask))
   (pad HOLE np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu))
-  (pad HOLE np_thru_hole circle (at -5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu))
-  (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu))
 )
