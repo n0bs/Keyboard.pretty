@@ -1,4 +1,4 @@
-(module Keyboard:CHERRY_PCB_225H (layer F.Cu) (tedit 4FDE2A97)
+(module Keyboard:MX_PCB_225H (layer F.Cu) (tedit 4FDE2A97)
   (fp_text reference CHERRY (at 0 3.175) (layer F.SilkS)
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )

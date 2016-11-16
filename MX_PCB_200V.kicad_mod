@@ -1,4 +1,4 @@
-(module Keyboard:CHERRY_PCB_200V (layer F.Cu) (tedit 4FDE2A7B)
+(module Keyboard:MX_PCB_200V (layer F.Cu) (tedit 4FDE2A7B)
   (fp_text reference CHERRY (at 3.175 0 90) (layer F.SilkS)
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )

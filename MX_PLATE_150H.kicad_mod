@@ -1,4 +1,4 @@
-(module Keyboard:CHERRY_PLATE_150H (layer F.Cu) (tedit 549A1302)
+(module Keyboard:MX_PLATE_150H (layer F.Cu) (tedit 549A1302)
   (fp_text reference CHERRY? (at 0 3.175) (layer F.SilkS)
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )
